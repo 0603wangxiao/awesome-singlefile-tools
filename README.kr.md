@@ -90,3 +90,7 @@ TiddlyWiki에서 영감을 받은 초경량, 무의존성, 단일 파일 HTML �
 ### 등재 신청 양식 (Submission Format)
 ```markdown
 - **[도구 이름](https://링크-주소)** - 목적과 핵심 기능을 설명하는 명확한 한 문장 요약.
+
+### 라이선스 (License)
+본 프로젝트는 MIT 라이선스에 따라 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
+Crystal World Project에서 열정을 담아 만들고 유지관리합니다.
