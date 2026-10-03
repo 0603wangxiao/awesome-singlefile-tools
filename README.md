@@ -31,7 +31,7 @@ Single-file HTML tools run natively in any modern browser—requiring no server 
 
 ## 🌟 Featured Anchor Project
 
-### 🧸 [Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html) `v1.3`
+### 🧸 [Teddy Wiki Lite]([https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html](https://github.com/charmfrog/awesome-singlefile-tools/blob/main/teddy-wiki-lite.html)) `v1.3`
 An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledge management tool inspired by TiddlyWiki.
 - **Key Features**:
   - Embedded multi-tag AND query filtering engine (`Array.every`).
