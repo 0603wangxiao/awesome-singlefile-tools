@@ -61,13 +61,13 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 ## 🎨 Media, Graphics & Creation
 
 - **[Bento Slides](https://bento.page/)** - An open-source, local-first presentation tool packed into a single HTML file containing the deck, editor, presenter mode, and interactive charts.
-- **[Nano Blake](https://crystal-world-project.github.io/crystal-world/index-en.html)** - A single-file HTML slideshow & video memo engine featuring smooth Ken Burns animation effects and Web Speech API audio integration.
+- **[Nano Blake](https://crystal-world-project.github.io/crystal-world/nano-blake.html)** - A single-file HTML slideshow & video memo engine featuring smooth Ken Burns animation effects and Web Speech API audio integration.
 - *(Single-file SVG/Canvas drawing canvases & image editors)*
 ---
 
 ## 💻 Developer Tools & API Clients
 
-- **[Crystal Dock](https://crystal-world-project.github.io/crystal-world/index-en.html)** - An ultra-lightweight single-file modular meta-platform using iframe sandboxing and `postMessage` protocol to connect isolated web tools without build steps.
+- **[Crystal Dock](https://crystal-world-project.github.io/crystal-world/crystal-dock.html)** - An ultra-lightweight single-file modular meta-platform using iframe sandboxing and `postMessage` protocol to connect isolated web tools without build steps.
 - *(In-browser RegEx testers & HTML sandboxes)*
 - *(Single-file REST API clients & GitHub API GUI managers)*
 - *(JSON formatters & offline base64 / token encoders)*
