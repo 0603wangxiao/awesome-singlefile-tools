@@ -1,8 +1,8 @@
-# Awesome Single-File tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa20e105be61d1284d73385f/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Single-File Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa20e105be61d1284d73385f/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated collection of zero-dependency, local-first, single-file HTML applications designed for digital sovereignty, total privacy, and ultimate portability.
+> A curated collection of zero-dependency, local-first, single-file HTML tools, productivity widgets, and platform frameworks designed for digital sovereignty, total privacy, and ultimate portability.
 
-Single-file HTML apps run natively in any modern browser—requiring no server setup, no `npm install`, no complex build pipelines, and zero telemetry. Just double-click, inspect, edit, and maintain full ownership of your software and data.
+Single-file HTML tools run natively in any modern browser—requiring no server setup, no `npm install`, no complex build pipelines, and zero telemetry. Just double-click, inspect, edit, and maintain full ownership of your software and data.
 
 ---
 
@@ -12,6 +12,8 @@ Single-file HTML apps run natively in any modern browser—requiring no server s
 - **Zero External Dependencies**: Everything needed (HTML, CSS, JavaScript) lives within a single file.
 - **Intellectual Sovereignty**: Pure software you can inspect, modify, fork, and preserve indefinitely.
 - **Citizen Developer Friendly**: Highly readable, hackable code that can be customized in any standard text editor.
+
+🌐 *Explore the ecosystem showcase at [Crystal World Project Homepage](https://crystal-world-project.github.io/crystal-world/index-en.html).*
 
 ---
 
@@ -29,7 +31,7 @@ Single-file HTML apps run natively in any modern browser—requiring no server s
 
 ## 🌟 Featured Anchor Project
 
-### 🧸 [Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/index-en.html) `v1.3`
+### 🧸 [Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html) `v1.3`
 An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledge management tool inspired by TiddlyWiki.
 - **Key Features**:
   - Embedded multi-tag AND query filtering engine (`Array.every`).
@@ -42,8 +44,9 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🧠 Knowledge Management & PKM
 
-- **[Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/index-en.html)** - Compact, single-file HTML markdown wiki with tag query capabilities.
-- **[TiddlyWiki Classic / Standalone](https://tiddlywiki.com/)** - The legendary single-file non-linear personal web notebook.
+- **[TiddlyWiki Classic / Standalone](https://tiddlywiki.com/)** - The legendary single-file non-linear personal web notebook and pioneer of the single-file paradigm.
+- **[Teddy Wiki](https://crystal-world-project.github.io/crystal-world/index-en.html)** - A standalone in-memory single-file HTML wiki & personal knowledge base system.
+- **[Teddy Wiki Lite](https://crystal-world-project.github.io/crystal-world/teddy-wiki-lite.html)** - Compact, single-file HTML markdown wiki with multi-tag query capabilities.
 - *(Additional single-file outliners, journaling templates, and flashcard tools welcome)*
 
 ---
@@ -58,14 +61,15 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🎨 Media, Graphics & Creation
 
-- *(Single-file SVG/Canvas drawing canvases)*
-- *(Local slideshow engines & Ken Burns video memo tools)*
-
+- **[Bento Slides](https://bento.page/)** - An open-source, local-first presentation tool packed into a single HTML file containing the deck, editor, presenter mode, and interactive charts.
+- **[Nano Blake](https://crystal-world-project.github.io/crystal-world/index-en.html)** - A single-file HTML slideshow & video memo engine featuring smooth Ken Burns animation effects and Web Speech API audio integration.
+- *(Single-file SVG/Canvas drawing canvases & image editors)*
 ---
 
 ## 💻 Developer Tools & API Clients
 
-- *(In-browser RegEx tester & HTML sandboxes)*
+- **[Crystal Dock](https://crystal-world-project.github.io/crystal-world/index-en.html)** - An ultra-lightweight single-file modular meta-platform using iframe sandboxing and `postMessage` protocol to connect isolated web tools without build steps.
+- *(In-browser RegEx testers & HTML sandboxes)*
 - *(Single-file REST API clients & GitHub API GUI managers)*
 - *(JSON formatters & offline base64 / token encoders)*
 
@@ -73,7 +77,7 @@ An ultra-lightweight, zero-dependency, single-file HTML personal wiki & knowledg
 
 ## 🤝 Contribution Guidelines
 
-We warmly welcome submissions of single-file applications! To be listed, an app must satisfy the following criteria:
+We warmly welcome submissions of single-file tools and apps! To be listed, a tool must satisfy the following criteria:
 
 1. **Single File Structure**: Entire application logic (HTML, CSS, JavaScript) must reside within one standalone `.html` file.
 2. **Local-First**: Complete functionality must be preserved offline without requiring external servers or APIs (except optional user-configured tokens).
@@ -82,8 +86,6 @@ We warmly welcome submissions of single-file applications! To be listed, an app 
 
 ### Submission Format
 ```markdown
-- **[App Name](https://link-to-app.com)** - Brief one-sentence summary describing its purpose and features.
-
-### 📄 License
+- **[Tool Name](https://link-to-tool.com)** - Brief one-sentence summary describing its purpose and features.### 📄 License
 Distributed under the MIT License. See `LICENSE` for details.  
 Created & Maintained with passion by **[Crystal World Project](https://github.com/crystal-world-project)**.
